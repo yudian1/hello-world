@@ -1,2 +1,3 @@
 # hello-world
-just for test
+Hi .
+This is my first time to creat a project,and I want do the best !
